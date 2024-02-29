@@ -1,0 +1,23 @@
+span {
+    display: inline-block;
+    background-color: rgb(250, 232, 204);
+    padding: 5px 15px;
+    color: rgb(241, 182, 240);
+    width: 100%;
+    box-sizing: border-box;
+}
+
+div{
+    border: 3px solid skyblue;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.box-1 {
+    width: 400px;
+}
+
+.box-2 {
+    writing-mode: horizontal-tb;
+    height: 200px;
+}
